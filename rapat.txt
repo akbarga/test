@@ -1,0 +1,24 @@
+pertanyaan setelah slide
+1. jenis persediaan - farmasi ada 10 depo farmasi
+		    - rumahtangga langsung
+		    - persediaan gizi langsung
+2. farmasi ngajuin usulan masuk ke ppk/ulp penyedia barang / jasa lalu masuk ke gudang abis itu distribusikan
+   - setelah kontrak masuk ke aplikasi
+   - distribusi tidak tercatat secara hanya internal
+  - pengekuan persediaan di saat di terima padasaat masuk ke gudang
+3. giji langsung d produksi dan di informasikan oleh bagian gudang gizi - produksi - pasien
+4. langkah briging
+- pelaporan -menyediakan data laporan dari masing2 gudang diolah dalam bentuk excel baru d upload
+maping transaksi,mapkode barang sesuai kelompok barang, melakukan validasi hasil
+-stock opname per triwulan ,harga bisa berubah
+5. selisih laporan banyak berbeda maping ke koreksi tambah
+6. diskon itu melakukan koreksi nilai harga satuan (m02) perubahan nilai
+--------kendala2
+1. aplikasi internal blm stabil (merubah apa yg ada)
+2. 
+
+-----------------------------------
+ada g sih masalah alkes farmasi untuk kebutuhan dadakan saat oprasi apakah pencatatannya menggunakan kas kecil atau yg lain
+diskon pembentuk refisi harga teknisnya seperti apa?
+- jawab pencataan setelah ada bukti dukungan ada keterangan surat diskon di bulan berjalan
+- 
